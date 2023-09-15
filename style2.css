@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+.menu{
+    width: 88px;
+    height: 88px;
+    margin-left: auto;
+    position: relative;
+}
+.menu ul li{
+    display:inline;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 150%;
+    padding-right: 190px;
+}
+.menu label{
+    width: 100%;
+    height: 100%;
+    background-color: #069;
+    position: absolute;
+    transition: all .3s linear;
+}
+#check2{
+    position: absolute;
+    z-index: 1;
+    display: none;
+}
+span{
+    width: 60px;
+    height: 8px;
+    top:40px;
+    left:14px;
+    position: absolute;
+    background-color: #fff;
+    transition:all .3s linear;
+}
+span:before{
+    content: '';
+    width: 60px;
+    height: 8px;
+    bottom: -20px;
+    position: absolute;
+    background-color: #fff;
+    transition: .3s linear;
+}
+span:after{
+    content: '';
+    width: 60px;
+    height: 8px;
+    top: -20px;
+    position: absolute;
+    background-color: #fff;
+    transition: .3s linear;
+}
+
+#check2:checked ~ span{
+    background-color: transparent;
+}
+#check2:checked ~ span:before{
+    transform: translate(0px, -20px) rotate(-45deg);
+}
+
+#check2:checked ~ span:after{
+    transform: translate(0px, 20px) rotate(45deg);
+}
+
+#check2:checked ~ label{
+    border-radius: 50%;
+}
+
+
+
+
+

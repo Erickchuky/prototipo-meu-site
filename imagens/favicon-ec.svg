@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021.5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="12.1918mm" height="12.1918mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1219.18 1219.18"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="507" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Impact">
+		<font-face-src>
+			<font-face-name name="Impact"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="C" horiz-adv-x="553" d="M521.006 445.994l-206.007 0 0 137.338c0,40.0038 -2.16141,64.8305 -6.49604,74.8344 -4.33463,9.83854 -14.0078,14.8346 -28.8306,14.8346 -16.6771,0 -27.3424,-5.99998 -31.8424,-17.9999 -4.49998,-12.1653 -6.82674,-38.1731 -6.82674,-78.165l0 -367.002c0,-38.5038 2.32676,-63.4958 6.82674,-75.3304 4.49998,-11.6692 14.6692,-17.5039 30.3424,-17.5039 15.1653,0 25.1574,5.83462 29.8227,17.6692 4.67715,11.6692 7.00391,39.3306 7.00391,82.8304l0 99.4957 206.007 0 0 -30.8267c0,-82.0036 -5.83462,-140.173 -17.3385,-174.33 -11.5039,-34.3345 -37.1691,-64.3344 -76.6651,-90.1768 -39.6731,-25.8306 -88.3343,-38.6573 -146.338,-38.6573 -60.1651,0 -109.83,10.8307 -148.995,32.6574 -38.9998,21.8385 -65.0076,52.0037 -77.669,90.6729 -12.6614,38.6691 -19.0039,96.661 -19.0039,174.165l0 230.999c0,56.9998 2.00787,99.6728 5.83462,128.173 4.00392,28.4999 15.5078,55.9958 35.0077,82.3343 19.3228,26.3267 46.1573,47.1612 80.4918,62.3265 34.3345,15.1653 73.8422,22.6653 118.5,22.6653 60.5076,0 110.504,-11.6692 149.999,-35.1613 39.3424,-23.3385 65.173,-52.4998 77.669,-87.5075 12.3307,-34.9959 18.5078,-89.3264 18.5078,-163.157l0 -75.1769z"/>
+   <glyph unicode="E" horiz-adv-x="415" d="M40.9959 791.005l343.003 0 0 -158.007 -136.996 0 0 -151.003 127.996 0 0 -149.999 -127.996 0 0 -173.999 150.992 0 0 -157.995 -356.999 0 0 791.005z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Impact";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#336699}
+    .fil1 {fill:white}
+    .fnt0 {font-weight:normal;font-size:846.67px;font-family:'Impact'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="609.59" cy="609.59" r="609.59"/>
+  <g id="_1691811537392">
+   <text x="171.57" y="944.44"  class="fil1 fnt0">E</text>
+   <text x="571.77" y="944.02"  class="fil1 fnt0">C</text>
+  </g>
+ </g>
+</svg>
